@@ -13,4 +13,3 @@
 ```
 ###### UI
 ![](https://github.com/YuanSiping/The-Service-System-of-Community-Living/blob/master/WebRoot/images/%E5%89%8D%E5%8F%B0.png)
-![](https://github.com/YuanSiping/The-Service-System-of-Community-Living/blob/master/WebRoot/images/%E5%90%8E%E5%8F%B0.png)
